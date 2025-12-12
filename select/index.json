@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Nevada",
+  "base_artist": "Vicetone",
+  "createdAt": "2025-12-12T14:53:23.712242Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nevada",
+      "artist": "Vicetone feat. Cozi Zuehlsdorff",
+      "has_synced": true,
+      "path": "select/01_Nevada_Vicetone_feat._Cozi_Zuehlsdorff.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nevada",
+      "artist": "Vicetone",
+      "has_synced": true,
+      "path": "select/02_Nevada_Vicetone.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nevada",
+      "artist": "Deer Tick",
+      "has_synced": true,
+      "path": "select/03_Nevada_Deer_Tick.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nevada",
+      "artist": "Sematary feat. Ghost Mountain",
+      "has_synced": false,
+      "path": "select/04_Nevada_Sematary_feat._Ghost_Mountain.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nevada",
+      "artist": "Sematary & Ghost Mountain",
+      "has_synced": false,
+      "path": "select/05_Nevada_Sematary_&_Ghost_Mountain.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sands Of Nevada",
+      "artist": "Mark Knopfler",
+      "has_synced": true,
+      "path": "select/06_Sands_Of_Nevada_Mark_Knopfler.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nevada (feat. Cozi Zuehlsdorff)",
+      "artist": "Vicetone",
+      "has_synced": true,
+      "path": "select/07_Nevada_(feat._Cozi_Zuehlsdorff)_Vicetone.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stop in Nevada",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/08_Stop_in_Nevada_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Reno, Nevada",
+      "artist": "Fairport Convention",
+      "has_synced": false,
+      "path": "select/09_Reno,_Nevada_Fairport_Convention.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fever - Live at The Colosseum at Caesars Palace, Las Vegas, Nevada - November 2003",
+      "artist": "Céline Dion",
+      "has_synced": false,
+      "path": "select/10_Fever_-_Live_at_The_Colosseum_at_Caesars_Palace,_Las_Vegas,_Nevada_-_November_20_Céline_Dion.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Wish - Live at The Colosseum at Caesars Palace, Las Vegas, Nevada - November 2003",
+      "artist": "Céline Dion",
+      "has_synced": true,
+      "path": "select/11_I_Wish_-_Live_at_The_Colosseum_at_Caesars_Palace,_Las_Vegas,_Nevada_-_November_2_Céline_Dion.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I've Got the World on a String - Live at The Colosseum at Caesars Palace, Las Vegas, Nevada - November 2003",
+      "artist": "Céline Dion",
+      "has_synced": true,
+      "path": "select/12_I've_Got_the_World_on_a_String_-_Live_at_The_Colosseum_at_Caesars_Palace,_Las_Ve_Céline_Dion.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nevada",
+      "artist": "Vicetone",
+      "has_synced": false,
+      "path": "select/pl_01_Nevada_Vicetone.txt"
+    }
+  ]
+}
